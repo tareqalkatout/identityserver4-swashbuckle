@@ -1,0 +1,14 @@
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\bin\Debug\netcoreapp2.2\ValuesAPI.deps.json
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\bin\Debug\netcoreapp2.2\ValuesAPI.runtimeconfig.json
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\bin\Debug\netcoreapp2.2\ValuesAPI.runtimeconfig.dev.json
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\bin\Debug\netcoreapp2.2\ValuesAPI.dll
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\obj\Debug\netcoreapp2.2\ValuesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\obj\Debug\netcoreapp2.2\ValuesAPI.RazorAssemblyInfo.cache
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\obj\Debug\netcoreapp2.2\ValuesAPI.RazorAssemblyInfo.cs
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\obj\Debug\netcoreapp2.2\ValuesAPI.AssemblyInfoInputs.cache
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\obj\Debug\netcoreapp2.2\ValuesAPI.AssemblyInfo.cs
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\obj\Debug\netcoreapp2.2\ValuesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\obj\Debug\netcoreapp2.2\ValuesAPI.csprojAssemblyReference.cache
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\bin\Debug\netcoreapp2.2\ValuesAPI.pdb
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\obj\Debug\netcoreapp2.2\ValuesAPI.dll
+C:\Users\Atlas\source\repos\IdentityServer4-Swagger\ValuesAPI\obj\Debug\netcoreapp2.2\ValuesAPI.pdb
